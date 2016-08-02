@@ -1,6 +1,6 @@
 {
   "name": "NamerJS",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "NamerJS is a JavaScript for composing name suggestions",
   "author": "Andreas Weber <andreas@chromawoods.com>",
   "devDependencies": {
