@@ -1,0 +1,11 @@
+{
+  "name": "NamerJS",
+  "version": "0.0.1",
+  "description": "NamerJS is a JavaScript for composing name suggestions",
+  "author": "Andreas Weber <andreas@chromawoods.com>",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4"
+  }
+}
